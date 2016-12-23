@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    
+    <app title="FlxBar Test" file="FlxBarTest" main="Main" />
+    
+    <window width="960" height="720" fps="60" background="#000000" hardware="true" vsync="true" />
+    
+    <set name="SWF_VERSION" value="11.8" />
+    <set name="BUILD_DIR" value="export" />
+    
+    <classpath name="source" />
+    
+    <haxelib name="flixel" />
+    
+</project>
